@@ -1,7 +1,3 @@
-GitHub Repository Write-Up
-Repository Name: hikvision-city-hunter-2025
-Recommended GitHub URL: github.com/voidsshadows/hikvision-city-hunter-2025
-Markdown# Hikvision City Hunter 2025
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Shodan](https://img.shields.io/badge/shodan-paid%20plan-green)
