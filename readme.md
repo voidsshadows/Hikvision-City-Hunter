@@ -1,12 +1,12 @@
 GitHub Repository Write-Up
 Repository Name: hikvision-city-hunter-2025
-Recommended GitHub URL: github.com/yourusername/hikvision-city-hunter-2025
+Recommended GitHub URL: github.com/voidsshadows/hikvision-city-hunter-2025
 Markdown# Hikvision City Hunter 2025
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Shodan](https://img.shields.io/badge/shodan-paid%20plan-green)
-![License](https://img.shields.io/github/license/yourusername/hikvision-city-hunter-2025)
-![Stars](https://img.shields.io/github/stars/yourusername/hikvision-city-hunter-2025?style=social)
+![License](https://img.shields.io/github/license/voidsshadows/hikvision-city-hunter)
+![Stars](https://img.shields.io/github/stars/voidsshadows/hikvision-city-hunter?style=social)
 
 > **The ultimate 2025 city-level reconnaissance & exploitation tool for Hikvision IP cameras, DVRs, and NVRs**  
 > Live console output • DVRs/NVRs highlighted in **purple** • Cameras in **green** • Snapshot auto-download • Honeypot filtering
